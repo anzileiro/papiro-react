@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { render } from 'react-dom';
 import MindMap from 'react-mindmap';
-import { nodes, connections } from './my-map.json';
  
 class App extends Component {
   render() {
